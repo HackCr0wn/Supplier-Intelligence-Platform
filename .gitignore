@@ -23,3 +23,9 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+data/
+*.xlsx
+*.xls
+*.csv
